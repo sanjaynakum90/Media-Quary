@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1320px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.box{
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+
+
+.p-1{
+    padding: 10px;
+}
+
+
+
+.bg-purple{
+    background-color: rgb(44, 1, 44);
+}
+
+.mt-4{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
